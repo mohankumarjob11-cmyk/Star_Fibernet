@@ -1,0 +1,8 @@
+{
+  "name": "Star Fibernet",
+  "description": "High-speed fiber internet services, connection prebooking, installation management, and networking hardware e-commerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
